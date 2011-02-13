@@ -138,7 +138,7 @@ label:after { content: ":" }
   
   @font-face {
 	font-family: 'Impact_Label';
-	src: local('☺'), url('../fonts/Impact_Label.ttf') format('truetype');
+	src: local('☺'), url('../fonts/Dymo.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
   }
